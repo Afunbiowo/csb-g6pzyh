@@ -1,0 +1,200 @@
+body {
+  box-sizing: border-box;
+  background-color: rgb(240, 232, 199);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+a {
+  color: black;
+  text-decoration: unset;
+}
+a:hover {
+  cursor: pointer;
+  color: coral;
+}
+p {
+  font-size: 25px;
+  float: left;
+  clear: left;
+  color: black;
+}
+.collection {
+  font-size: 18px;
+  float: left;
+  clear: right;
+  margin: 32px;
+  color: black;
+}
+.men {
+  border-color: black;
+  border: 2px;
+  font-size: 18px;
+  position: ;
+  float: left;
+  clear: right;
+  margin: 32px;
+}
+.women {
+  font-size: 18px;
+  position: ;
+  float: left;
+  clear: right;
+  margin: 32px;
+}
+.about {
+  font-size: 18px;
+  position: ;
+  float: left;
+  clear: right;
+  margin: 32px;
+}
+.contact {
+  font-size: 18px;
+  position: ;
+  float: left;
+  clear: right;
+  margin-top: 32px;
+}
+.mart {
+  float: left;
+  clear: right;
+  margin: 32px;
+  margin-left: 450px;
+  margin-right: 5px;
+}
+.ceo {
+  float: left;
+  clear: right;
+  margin-top: ;
+  margin: 32px;
+}
+.seun {
+  float: left;
+  clear: both;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 160px;
+}
+.tum {
+  position: ;
+  float: right;
+  clear: left;
+  height: 400px;
+  width: 400px;
+  margin-left: 0px;
+  margin-top: 60px;
+  margin-right: 230px;
+}
+.tumi {
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
+  color: coral;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.fan {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.book {
+  color: grey;
+  margin-bottom: 10px;
+}
+.nut {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.but {
+  box-sizing: content-box;
+  font-size: 12px;
+  font-weight: 600;
+  background-color: rgba(240, 211, 175, 0.527);
+  width: 28px;
+  height: 25px;
+  color: coral;
+  margin-left: 10px;
+}
+.ent {
+  clear: left;
+  color: black;
+}
+.got {
+  margin: 5px;
+  color: coral;
+  font-size: 28px;
+  font-weight: bold;
+}
+.kit {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: black;
+  font-size: 18px;
+}
+.lit {
+  margin: 5x;
+  color: coral;
+  font-size: 28px;
+  font-weight: 600;
+}
+.rut {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: grey;
+  stroke-width: 15px;
+  margin-top: 10px;
+}
+.che {
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgba(228, 214, 198, 0.527);
+  width: 120px;
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 0px;
+  clear: left;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.mat {
+  box-sizing: border-box;
+  float: right;
+  clear: left;
+  margin-right: 70px;
+  width: 200px;
+  height: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-display: ;
+  font-weight: 550;
+  background-color: rgba(255, 127, 80, 0.521);
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: solid;
+  padding-left: 0px;
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  clear: ;
+}
+.lord {
+  position: relative;
+  margin-top: 450px;
+  margin-left: 100px;
+}
+.jug {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+img {
+  border-radius: 10px;
+}
